@@ -35,5 +35,5 @@ The data used in this dashboard comes from daily transactions recorded at variou
 
 ## 🖼️ Dashboard Screenshot
 
-![Screenshot 2024-09-05 204957.png]
+![Coffee Sales Dashboard](https://github.com/MdAsif-Hossain/Coffee-Shop-Sales/blob/main/Screenshot%202024-09-05%20204957.png)
 
